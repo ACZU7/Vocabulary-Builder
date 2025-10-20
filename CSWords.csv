@@ -1,0 +1,217 @@
+Word,Definition,Topic,Level
+Fetch-execute Cycle,"A process in which instructions are fetched one by one from main memory, decoded, and then executed by the processor. This cycle repeats until the program is complete.",Systems Architecture,3
+Central Processing Unit,"The main processor within a computer that controls the operation of all parts of the computer, decodes, and executes program instructions.",Systems Architecture,2
+Arithmetic Logic Unit,The part of the CPU responsible for performing arithmetic and logical operations.,Systems Architecture,3
+Processor Cache,High-speed memory built into the CPU that stores frequently accessed instructions and data to reduce the time required to access them from main memory.,Systems Architecture,4
+Register,A small and fast storage area within the CPU that temporarily holds data and instructions for quick access during processing.,Systems Architecture,3
+Von Neumann Architecture,"A computer architecture design that defines the structure and operation of a computer system, including the CPU, memory, and input/output devices.",Systems Architecture,4
+Memory Address Register,A register that holds the memory address of the current instruction or data being accessed from or written to main memory.,Systems Architecture,4
+Memory Data Register,A register that temporarily stores data being transferred between the CPU and main memory.,Systems Architecture,4
+Program Counter,A register that contains the memory address of the next instruction to be executed by the CPU.,Systems Architecture,4
+Accumulator,A register in the CPU that stores the result of arithmetic and logical operations.,Systems Architecture,4
+Clock Speed,"The number of clock cycles a CPU can execute per second, measured in MHz or GHz. Higher clock speeds generally indicate faster processing.",Systems Architecture,3
+Cache Size,The amount of high-speed memory built into the CPU. A larger cache size can improve performance by reducing the need to access slower main memory.,Systems Architecture,4
+Cores,"Independent processing units within a CPU that can execute instructions simultaneously, allowing for parallel processing and improved performance.",Systems Architecture,3
+Embedded System,"A computer system with dedicated hardware and software designed for a specific purpose, often found in appliances, vehicles, and other devices.",Systems Architecture,3
+Primary Storage,"Also known as Main memory; holds the data, programs, and instructions currently in use by the computer.",Memory and Storage,2
+RAM,"Random Access Memory; stores programs and data temporarily before they are processed by the CPU. It is read/write memory., meaning the contents can be changed. The contents are lost when the computer is turned off.",Memory and Storage,2
+ROM,Read Only Memory; stores data that can be retrieved but not changed. The contents are not lost when the computer is turned off. Often used to store programs for embedded systems.,Memory and Storage,3
+Volatile Memory,A type of memory that loses its contents when the computer is turned off.,Memory and Storage,3
+Non-Volatile Memory,A type of memory that retains its contents even when the computer is turned off.,Memory and Storage,3
+Virtual Memory,A technique that uses space on the computer's hard drive as an extension of main memory (RAM). Virtual memory is slower than main memory.,Memory and Storage,4
+Optical Storage,A type of secondary storage that stores data on a spinning plastic or metal disk. Data is read from and written to the disk using a laser.,Memory and Storage,3
+Magnetic Storage,A type of secondary storage that uses magnetic fields to store data. A read/write head is used to read and write data from the storage medium.,Memory and Storage,3
+Solid State Storage,A type of secondary storage that uses flash memory to store data. It has no moving parts and is much faster than optical or magnetic storage.,Memory and Storage,3
+Hard Disk Drive,A magnetic storage drive that can store large amounts of data and is often the main method of secondary storage in personal computers. The drive contains a number of internal disks and a read/write head used to read and write data.,Memory and Storage,3
+Digital Versatile Disk,"A high-capacity optical storage disk commonly used for video storage. A range of capacities are available, up to 17GB.",Memory and Storage,2
+Compact Disk,An optical storage disk often used to store music. Capacity is usually around 800MB.,Memory and Storage,2
+Solid State Drive,"A solid state storage drive that performs the same function as a traditional HDD. They are much faster than HDDs and less prone to damage due to the absence of moving parts. However, they are also more expensive and usually have lower storage capacity.",Memory and Storage,3
+Bit,"The smallest unit of storage, containing a binary value of either 1 or 0.",Memory and Storage,2
+Nibble,A unit of data equal to 4 bits (half a byte).,Memory and Storage,4
+Byte,A unit of data equal to 8 bits.,Memory and Storage,2
+Kilobyte,A unit of data equal to 1000 bytes.,Memory and Storage,2
+Megabyte,A unit of data equal to 1000 kilobytes.,Memory and Storage,2
+Gigabyte,A unit of data equal to 1000 megabytes.,Memory and Storage,2
+Terabyte,A unit of data equal to 1000 gigabytes.,Memory and Storage,2
+Petabyte,A unit of data equal to 1000 terabytes.,Memory and Storage,3
+Binary,A number system used by computers that contains only two symbols: 0 and 1. It is also known as base-2.,Memory and Storage,3
+Denary,The number system most often used by people. It uses the digits 0 to 9 and is also known as base-10 or decimal.,Memory and Storage,3
+Positive Number,A number greater than 0.,Memory and Storage,1
+Negative Number,A number less than 0.,Memory and Storage,1
+Integer,"A whole number without a decimal point or fraction (e.g., 1, 100, or 88122).",Memory and Storage,2
+Overflow Error,An error that occurs when the result of a calculation is too large to be stored in the allocated memory space.,Memory and Storage,4
+Hexadecimal,A base-16 number system used in computing. It uses the digits 0-9 and the letters A-F to represent values.,Memory and Storage,4
+Binary Shift,A process used to perform arithmetic on binary numbers by moving all the digits to the left or right.,Memory and Storage,5
+Most Significant Bit,"The leftmost digit in a string of binary numbers, representing the highest value due to its position.",Memory and Storage,4
+Least Significant Bit,"The rightmost digit in a string of binary numbers, representing the lowest value due to its position.",Memory and Storage,4
+Character,"A single symbol, such as a letter, number, or punctuation mark.",Memory and Storage,2
+Character Set,"A system for representing characters in binary, where each character is assigned a unique binary number.",Memory and Storage,3
+ASCII,American Standard Code for Information Interchange; a 7-bit character set used to represent characters in computers.,Memory and Storage,4
+Unicode,"A character set designed to include a wide variety of characters from different languages and symbol sets, such as emojis. It was created to address the limitations of ASCII.",Memory and Storage,4
+Pixel,"Short for 'picture element'; the smallest unit of a digital image. Images are divided into a grid, with each square in the grid representing a single pixel that can display a single color.",Memory and Storage,3
+Metadata,"Additional data about a file, such as its creation date, author, or other relevant information. Commonly used with photos to store details like camera make or location.",Memory and Storage,3
+Color Depth,The number of bits available to represent colors in an image. Higher color depth allows for more colors and more realistic images.,Memory and Storage,4
+Resolution,The number of pixels that make up an image. Higher resolution means more pixels and clearer images.,Memory and Storage,3
+Sample Rate,"The number of samples taken per second when digitizing an analog signal. Measured in hertz (Hz), with 1 Hz representing one sample per second. Higher sample rates result in higher quality digital audio.",Memory and Storage,4
+Bit Depth,The number of bits used to represent each sample in a digital audio file. Higher bit depth allows for better audio quality.,Memory and Storage,4
+Analog,"A continuously varying signal, typically represented as a smooth, continuous waveform. Examples include sound waves and temperature readings.",Memory and Storage,3
+Compression,"A technique used to reduce the size of a file, commonly applied to images, audio, and video files.",Memory and Storage,3
+Lossy Compression,"A compression method that reduces file size by removing certain data permanently. The original file cannot be perfectly reconstructed from the compressed version, but the file size reduction is more significant compared to lossless compression.",Memory and Storage,4
+Lossless Compression,"A compression method that reduces file size without losing any data. The original file can be perfectly reconstructed from the compressed version, but the file size reduction is less significant compared to lossy compression.",Memory and Storage,4
+Network,Two or more computers connected together for the purpose of sharing data or resources.,Computer Networks Connections and Protocols,2
+Local Area Network,"A network that covers a small geographic area, such as a single building or office.",Computer Networks Connections and Protocols,2
+Wide Area Network,"A network that spans a large geographic area, connecting multiple LANs or computers across different locations.",Computer Networks Connections and Protocols,2
+Client-Server,"A network architecture where resources or processing are managed by a central computer (server), and other devices (clients) access these resources via the network.",Computer Networks Connections and Protocols,3
+Peer-to-Peer,A network architecture where all computers have equal status and can function as both clients and servers.,Computer Networks Connections and Protocols,3
+Wireless Access Point,A device that uses wireless radio to allow devices to connect wirelessly to an existing network.,Computer Networks Connections and Protocols,3
+Router,"A device that connects two or more different networks together, allowing them to communicate with one another.",Computer Networks Connections and Protocols,2
+Switch,A device that provides computers and other devices with a wired connection to a network.,Computer Networks Connections and Protocols,2
+Network Interface Card,A component within a computer or other device that allows it to connect to a network. It provides the physical connection and controls the sending and receiving of data between the device and the network. NICs can be integrated into the computer motherboard or installed as a separate expansion card.,Computer Networks Connections and Protocols,3
+Transmission Media,"The physical medium that carries data between network devices. This can be a cable or wireless signals, depending on the network type.",Computer Networks Connections and Protocols,3
+Domain Name System,A system that translates human-readable domain names (URLs) into the corresponding IP addresses.,Computer Networks Connections and Protocols,3
+Hosting,The process of storing files or other data on a server. The server storing the data is called the host.,Computer Networks Connections and Protocols,2
+The Cloud,A term for accessing storage or other resources remotely via the Internet.,Computer Networks Connections and Protocols,2
+Web Server,"A server that hosts websites and web pages for users to access, typically over the Internet.",Computer Networks Connections and Protocols,2
+Network Topology,"The physical or logical layout of a network, describing how computers and other network devices are connected.",Computer Networks Connections and Protocols,3
+Star Network,A network topology where all devices are connected to a single central node (such as a switch or hub). All communication passes through this central point.,Computer Networks Connections and Protocols,3
+Mesh Network,"A network topology where all devices are interconnected, allowing for direct communication between any two devices without the need for a central node.",Computer Networks Connections and Protocols,4
+Bandwidth,The maximum amount of data that can be transferred over a network connection in a given time. Higher bandwidth allows for faster data transfer speeds.,Computer Networks Connections and Protocols,3
+The Internet,A global network connecting millions of computers and devices worldwide.,Computer Networks Connections and Protocols,1
+Uniform Resource Locator,A human-readable address used to locate and access web resources. DNS is used to translate the URL into the corresponding IP address of the web server.,Computer Networks Connections and Protocols,2
+Client,A computer or device that accesses resources or services from a server over a network.,Computer Networks Connections and Protocols,2
+Ethernet,A family of wired network technologies and protocols used for local area networks (LANs). It defines the physical connection (cables) and the rules for sending and receiving data over the network.,Computer Networks Connections and Protocols,3
+Wi-Fi,A wireless networking technology that uses radio waves to provide wireless high-speed Internet and network connections.,Computer Networks Connections and Protocols,2
+Bluetooth,"A short-range wireless communication technology used for connecting devices such as keyboards, mice, headphones, and smartphones over short distances.",Computer Networks Connections and Protocols,2
+Encryption,The process of converting data into a coded format to prevent unauthorized access. Encrypted data must be decrypted before it can be read or understood.,Computer Networks Connections and Protocols,3
+IP Address,A unique numerical address assigned to each device connected to a network using the Internet Protocol (IP) for communication.,Computer Networks Connections and Protocols,2
+IPv4,"The fourth version of the Internet Protocol (IP) that uses 32-bit addresses. IPv4 addresses are typically represented as four numbers separated by dots (e.g., 192.168.0.1).",Computer Networks Connections and Protocols,3
+IPv6,"The sixth version of the Internet Protocol (IP), designed to address the limitations of IPv4. IPv6 uses 128-bit addresses, represented as eight groups of hexadecimal digits separated by colons (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334).",Computer Networks Connections and Protocols,4
+MAC Address,Media Access Control Address: A unique identifier assigned to a network interface card (NIC) by the manufacturer. MAC addresses are 12-digit hexadecimal numbers used for communication within a network segment.,Computer Networks Connections and Protocols,3
+Standard,"An established set of guidelines or rules that define how a particular technology or process should be implemented, allowing for interoperability between different products and services.",Computer Networks Connections and Protocols,2
+Protocol,A set of rules and conventions that govern the communication and data exchange between devices on a network.,Computer Networks Connections and Protocols,2
+TCP/IP,Transmission Control Protocol / Internet Protocol: A suite of communication protocols used to interconnect network devices on the Internet and most local networks.,Computer Networks Connections and Protocols,3
+HTTP,"Hypertext Transfer Protocol: An application-layer protocol for transmitting hypermedia documents, such as HTML pages, between clients and servers over the World Wide Web.",Computer Networks Connections and Protocols,3
+HTTPS,Hypertext Transfer Protocol Secure: An extension of HTTP that uses SSL/TLS encryption for secure communication between clients and servers. HTTPS is commonly used for sensitive transactions like online banking.,Computer Networks Connections and Protocols,3
+FTP,File Transfer Protocol: A standard network protocol used for transferring files between a client and a server over a computer network.,Computer Networks Connections and Protocols,3
+POP,Post Office Protocol: An application-layer protocol used by email clients to retrieve email messages from a remote mail server.,Computer Networks Connections and Protocols,4
+IMAP,"Internet Message Access Protocol: An email retrieval protocol that allows email clients to access and manipulate email messages stored on a remote mail server. IMAP provides more functionality than POP, such as organizing emails into folders on the server.",Computer Networks Connections and Protocols,4
+SMTP,Simple Mail Transfer Protocol: A communication protocol for sending email messages between servers or from an email client to a server for relaying.,Computer Networks Connections and Protocols,4
+Malware,"Software designed with malicious intent, which may damage the computer, monitor user activity and files, or delete or damage data. There are many different types of malware that behave in different ways.",Network Security,3
+Social Engineering,"Attempting to gain access to computer systems by targeting the people using the system instead of using technical measures to attack the system itself. Attackers exploit the fact that people are often the weakest security point in a computer system, using techniques such as shoulder surfing or impersonation.",Network Security,3
+Phishing,"A type of social engineering attack that attempts to trick someone into revealing sensitive information, such as passwords or financial data, by pretending to be a trustworthy entity. Phishing usually takes place via email, with the attacker impersonating a user's bank or another trusted organization.",Network Security,3
+Brute-force Attack,"An attempt to guess a password or encryption key by systematically trying every possible combination until the correct one is found. The attack may use a list of common passwords, dictionary words, or simply iterate through all possible character combinations.",Network Security,4
+Denial of Service Attack,"An attack that aims to make a computer system or network unavailable to its intended users by overwhelming it with traffic or requests. If successful, the targeted system becomes unable to process legitimate requests, resulting in a partial or complete failure.",Network Security,4
+Data Interception,"Attempting to access data while it is being transferred between devices, usually over a network, without the knowledge of the sender or receiver. The attacker may steal sensitive information, such as usernames, passwords, or entire files.",Network Security,4
+SQL Injection,"A type of attack that exploits vulnerabilities in web applications that use SQL databases. The attacker enters malicious SQL code into data input fields, which, if not properly handled by the application, can be executed directly on the database, allowing the attacker to access, modify, or delete the entire database.",Network Security,5
+Penetration Testing,"An authorized simulated attack on a computer system or network, performed by a security professional or team, to identify vulnerabilities and weaknesses. The findings are then reported to the system's owner, allowing them to fix security flaws before malicious actors can exploit them.",Network Security,4
+Anti-Malware Software,"Software designed to detect, prevent, and remove malware from a computer system. Anti-virus software is a common example of anti-malware software.",Network Security,2
+Firewall,A network security device that monitors and filters incoming and outgoing network traffic based on a set of predefined security rules. It prevents unauthorized access and blocks traffic that does not meet the specified criteria.,Network Security,3
+User Access Level,"A security mechanism that controls which parts of a system or network users can access based on their roles and responsibilities. Users are granted access only to the resources they need, reducing the risk of accidental or intentional damage to sensitive parts of the system or unauthorized access to sensitive data.",Network Security,3
+Password,"A secret word, phrase, or combination of characters used to authenticate a user's identity and grant access to a system or network. Passwords are typically used in conjunction with a username.",Network Security,1
+Encryption,The process of converting data into a coded format to prevent unauthorized access. Encrypted data must be decrypted using the appropriate key or password before it can be read or understood.,Network Security,3
+Physical Security,"Measures taken to protect the physical components of a computer system or network, such as hardware and infrastructure, from unauthorized access, theft, or damage. Examples include locking devices, securing server rooms, and implementing access control systems.",Network Security,2
+Operating System,Software that controls the operation of all aspects of the computer and provides an interface through which a user can interact with the computer.,Systems Software,2
+User Interface,"A component of the operating system or other software that allows the user to interact with and control the system. User interfaces typically include a graphical component displayed on a monitor or other hardware, and a way for the user to interact with the system, either by typing commands or using input devices like a mouse or touchscreen.",Systems Software,2
+Memory Management,"A function of the operating system that manages the computer's memory, controlling how memory is allocated and accessed by applications.",Systems Software,3
+Multitasking,The ability of an operating system to run multiple tasks or applications simultaneously.,Systems Software,2
+Peripheral Management,"A function of the operating system that controls and manages hardware devices, such as printers, mice, or speakers, connected to the computer.",Systems Software,3
+Device Driver,Software that provides instructions for how the operating system should communicate with a specific piece of hardware. Device drivers are specific to the operating system and the hardware they are designed for.,Systems Software,3
+User Management,"A function of the operating system that manages user accounts, allowing multiple users to have their own username, password, and access rights on the same computer.",Systems Software,3
+File Management,"A function of the operating system that manages files and folders stored on the computer's internal storage or external storage devices, such as USB drives.",Systems Software,2
+Access Rights,"A security feature of the operating system that controls the level of access different users and applications have to the system, allowing different user accounts or applications to be granted access to specific parts of the system.",Systems Software,3
+Encryption Software,"Software that encrypts data, converting it into a coded format that can only be read with the correct decryption key. Encryption is used to protect data and prevent unauthorized access.",Systems Software,3
+Defragmentation,"A process performed by software that reorganizes files stored on a hard disk drive, so that they are stored contiguously and in a more efficient order. This can improve system performance and efficiency.",Systems Software,4
+Data Compression,Software that reduces the size of data files to save storage space. Compressed files must be decompressed before they can be used.,Systems Software,3
+Ethical,"The principles of right and wrong that govern how people should behave. Ethics are not the same as laws, but rather a set of moral guidelines for always doing the right thing.",Ethical Legal Cultural and Environmental Impacts of Digital Technology,3
+Legal,A set of rules that define prohibited behaviors and the consequences for violating these rules. Laws vary between countries and can be created or updated over time.,Ethical Legal Cultural and Environmental Impacts of Digital Technology,2
+Cultural,"A set of behaviors and expectations that people accept as normal and expected within their daily lives. These norms are not enforced by laws and may not always relate to right or wrong, but rather reflect how people expect things to be done. For example, using a red color for a delete button or arranging items starting from the top left of a screen.",Ethical Legal Cultural and Environmental Impacts of Digital Technology,3
+Environmental,"Issues related to the natural world and the importance of protecting animals, the atmosphere, and the planet as a whole.",Ethical Legal Cultural and Environmental Impacts of Digital Technology,2
+Privacy,"The expectation that certain information, usually personal details such as an individual's address or medical history, should be kept confidential and not shared without permission.",Ethical Legal Cultural and Environmental Impacts of Digital Technology,2
+The Data Protection Act,A law in the United Kingdom that regulates the processing of personal data. It outlines the obligations of organizations that handle data and the rights of individuals who provide their data.,Ethical Legal Cultural and Environmental Impacts of Digital Technology,3
+Computer Misuse Act,A law in the United Kingdom that criminalizes the misuse of computer systems if certain criteria are met.,Ethical Legal Cultural and Environmental Impacts of Digital Technology,3
+Copyright Designs and Patents Act,A law in the United Kingdom that provides legal protection for creative works and materials. The act outlines the available protections and any necessary steps for registering these protections.,Ethical Legal Cultural and Environmental Impacts of Digital Technology,4
+Software License,An agreement between the software creator and the user that grants the right to use a piece of computer software. The license outlines any rules or restrictions associated with the software's use and may require a one-time or recurring fee.,Ethical Legal Cultural and Environmental Impacts of Digital Technology,3
+Open Source Software,"Software whose source code is made publicly available for anyone to view, modify, or distribute. Open source software is usually free to use.",Ethical Legal Cultural and Environmental Impacts of Digital Technology,3
+Proprietary Software,Software whose source code is owned by an individual or organization and is not made available to the public.,Ethical Legal Cultural and Environmental Impacts of Digital Technology,3
+Computational Thinking,The process of approaching a problem using computational concepts and methods to create a solution that can be implemented by a computer.,Algorithms,3
+Abstraction,The process of removing irrelevant or unnecessary details from a problem to focus on its essential components.,Algorithms,3
+Decomposition,"The process of breaking down a complex problem into smaller, more manageable sub-problems.",Algorithms,3
+Algorithmic Thinking,"The process of developing a step-by-step solution to a problem, which can be expressed as an algorithm.",Algorithms,3
+Algorithm,A sequence of well-defined instructions to solve a specific problem or perform a particular task.,Algorithms,2
+Structure Diagram,A graphical representation of the steps needed to solve a problem. Flowcharts are one example of a structure diagram.,Algorithms,3
+Pseudocode,"A way of writing algorithms or computer programs using a combination of natural language and programming language-like syntax, making it easier for humans to understand.",Algorithms,3
+Flowchart,"A diagrammatic representation of an algorithm or process, using shapes and arrows to depict the sequence of steps and decisions.",Algorithms,2
+Programming Language,A formal language designed to communicate instructions to a computer. It consists of a set of syntax rules that define how the language should be written and interpreted.,Algorithms,2
+Error,"A mistake or flaw in computer code that causes the program to malfunction, produce incorrect results, or fail to run at all.",Algorithms,2
+Trace Table,"A tool used to track the values of variables at each step of a program's execution, which is helpful for debugging and understanding the program's behavior.",Algorithms,4
+Search,The process of finding a specific value or piece of information within a dataset.,Algorithms,2
+Binary Search,An efficient search algorithm that works on sorted lists by repeatedly dividing the search interval in half. It compares the target value to the middle element of the list and determines whether to search the upper or lower half of the remaining list until the target is found or the list is exhausted.,Algorithms,4
+Linear Search,A simple search algorithm that sequentially checks each element in a list until the target value is found or the end of the list is reached.,Algorithms,3
+Sort,"The process of arranging elements in a list or collection according to a specific order, such as alphabetical or numerical.",Algorithms,2
+Bubble Sort,"A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. This process is repeated until the list is sorted.",Algorithms,3
+Merge Sort,"A divide-and-conquer sorting algorithm that recursively divides the list into smaller sublists until each sublist contains only one element. Then, it merges the sublists back together in a sorted order.",Algorithms,4
+Insertion Sort,"A simple sorting algorithm that builds the final sorted list one element at a time. It iterates through the input list, taking one element at a time and inserting it into its correct position in the sorted portion of the list.",Algorithms,4
+Variable,"A named storage location in a computer program that holds a value, which can be modified as the program executes.",Programming Fundamentals,1
+Constant,A named value in a computer program that remains fixed and cannot be changed during program execution.,Programming Fundamentals,2
+Operator,"Symbols or keywords used to perform operations on, compare, or modify values in computer code. Examples include +, <, and NOT.",Programming Fundamentals,2
+Input,"Data or information provided to a program, either entered by a user or obtained from a sensor or other source.",Programming Fundamentals,1
+Output,"Data or information produced by a program, which can be displayed on a screen, sent to a printer, or saved to a file.",Programming Fundamentals,1
+Assignment,The process of storing a value in a variable.,Programming Fundamentals,2
+Sequence,Executing a set of instructions in a specific order.,Programming Fundamentals,2
+Selection,Choosing different paths through the code based on a condition or set of conditions.,Programming Fundamentals,2
+Iteration,Repeating a set of instructions multiple times.,Programming Fundamentals,2
+Count-Controlled Loop,"A loop that executes a block of code a specific number of times, determined by a counter variable.",Programming Fundamentals,3
+Condition-Controlled Loop,A loop that continues to execute a block of code as long as a specific condition remains true.,Programming Fundamentals,3
+Arithmetic Operator,"An operator that performs mathematical operations on numeric values, such as addition (+), subtraction (-), multiplication (*), or division (/).",Programming Fundamentals,2
+Boolean Operator,"An operator that compares two values or expressions using logical criteria, such as less than (<), greater than (>), equal to (==), or logical AND (&&) and OR (||).",Programming Fundamentals,3
+Integer,"A data type representing whole numbers without fractional or decimal parts, e.g., 1, 100, or -88122.",Programming Fundamentals,2
+Real,"A data type representing numbers that may include fractional or decimal parts, such as 11.2 or -3.14159.",Programming Fundamentals,2
+Boolean,A data type that can only have one of two values: true or false.,Programming Fundamentals,2
+Character,"A data type representing a single symbol, such as a letter, number, or punctuation mark.",Programming Fundamentals,2
+String,"A data type representing a sequence of characters, typically forming a word or sentence.",Programming Fundamentals,2
+Casting,"The process of explicitly converting a value from one data type to another, such as converting a string representation of a number to an integer.",Programming Fundamentals,3
+String Manipulation,"A set of operations and techniques used to modify or transform strings, such as concatenation, slicing, or searching for substrings.",Programming Fundamentals,3
+Concatenation,The process of joining two or more strings together to form a single string.,Programming Fundamentals,3
+Slicing,"The process of extracting a portion of a string, creating a new string that is a subset of the original.",Programming Fundamentals,3
+File Handling,"The set of operations and techniques used by computer programs to interact with files on a storage device, such as opening, reading from, writing to, or closing files.",Programming Fundamentals,3
+Record,"A single entry or row in a database table, consisting of related data fields.",Programming Fundamentals,3
+Table,"A structured collection of data in a database, organized into rows (records) and columns (fields).",Programming Fundamentals,3
+Field,"A single piece of data within a database record, representing a specific attribute or characteristic of that record.",Programming Fundamentals,3
+SQL,"Structured Query Language, a programming language designed for managing and manipulating relational databases.",Programming Fundamentals,4
+Array,"A data structure that stores a fixed-size collection of elements of the same data type, accessible by an index or position.",Programming Fundamentals,3
+Subprogram,A self-contained block of code within a larger program that performs a specific task or function.,Programming Fundamentals,3
+Function,A type of subprogram that performs a specific task and returns a value when called.,Programming Fundamentals,3
+Procedure,A type of subprogram that performs a specific task but does not necessarily return a value.,Programming Fundamentals,3
+Random Number,"A number generated by a computer program using a pseudo-random number generator, designed to simulate unpredictable or random behavior.",Programming Fundamentals,3
+Defensive Design,"An approach to designing and writing code that prioritizes security, maintainability, and robustness.",Producing Robust Programs,4
+Authentication,"A security process that verifies the identity of a user or system by requiring proof, such as a password, code, or biometric data (e.g., fingerprint), before granting access to a system or resource.",Producing Robust Programs,3
+Input Validation,The process of checking data entered into a program against a set of predefined rules to ensure its validity and to prevent potential damage to the system before processing the data.,Producing Robust Programs,3
+Maintainability,"The ease with which a program can be modified, updated, or extended to fix bugs, improve performance, or add new features.",Producing Robust Programs,3
+Naming Conventions,"A consistent set of rules for naming variables, functions, classes, and other elements in a program to improve code readability and clarity.",Producing Robust Programs,3
+Indentation,The practice of adding consistent whitespace (typically spaces or tabs) at the beginning of lines or blocks of code to visually group related code and improve readability.,Producing Robust Programs,2
+Comments,"Human-readable annotations in the source code that provide explanations, context, or documentation for developers. Comments are ignored by the compiler or interpreter and do not affect the program's execution.",Producing Robust Programs,2
+Testing,"The process of evaluating a program or system to ensure it functions as expected, identify defects or issues, and verify its quality and performance.",Producing Robust Programs,2
+Iterative Testing,"A testing approach in which testing activities are performed repeatedly throughout the development process, often in parallel with coding, to identify and fix issues early.",Producing Robust Programs,3
+Final Testing,"A comprehensive testing phase conducted at the end of the development process, just before the software is released, to ensure it meets all requirements and quality standards.",Producing Robust Programs,3
+Syntax Error,"An error that occurs when the code violates the grammatical rules of the programming language, preventing the program from compiling or executing.",Producing Robust Programs,2
+Logic Error,An error in which the program runs without crashing but produces incorrect or unexpected results due to flaws in the program's logic or algorithm.,Producing Robust Programs,3
+Normal Data,Data that falls within the expected range of values and should be accepted and processed by the program without causing errors.,Producing Robust Programs,3
+Boundary Data,"Data that lies at the edges of the acceptable range of values, often used to test the program's ability to handle extreme but still valid inputs.",Producing Robust Programs,4
+Invalid Data,Data that is of the correct type but falls outside the acceptable range of values for the program and should be rejected or handled gracefully.,Producing Robust Programs,3
+Erroneous Data,"Data that is of the wrong type or format and should be rejected by the program, typically through input validation.",Producing Robust Programs,3
+AND,"A logical operator that takes two inputs and outputs 1 only if both inputs are 1, otherwise it outputs 0.",Boolean Logic,2
+OR,"A logical operator that takes two inputs and outputs 1 if at least one of the inputs is 1, otherwise it outputs 0.",Boolean Logic,2
+NOT,"A logical operator that takes a single input and outputs the opposite value of that input (0 becomes 1, and 1 becomes 0).",Boolean Logic,2
+Truth Table,A table that displays all possible input combinations and their corresponding output values for a given logical expression or function.,Boolean Logic,3
+Logic Gate,"A fundamental building block in digital circuits that performs a specific logical operation (such as AND, OR, or NOT) on one or more binary inputs to produce a single binary output.",Boolean Logic,3
+Logic Diagram,"A graphical representation of a digital circuit or system that shows the interconnections between logic gates and other components, used to design and analyze the behavior of the circuit or system.",Boolean Logic,4
+Programming Language,"A formal language designed to communicate instructions to a computer, consisting of a set of syntax rules, keywords, and symbols.",Programming Languages and Integrated Development Environments,2
+High-Level Language,"A programming language that uses syntax closer to human language and is easier to read, write, and understand compared to low-level languages. Examples include Python, Java, and C++.",Programming Languages and Integrated Development Environments,3
+Low-Level Language,"A programming language that is closer to machine code, with a more complex syntax and limited abstraction from the computer's hardware. Examples include Assembly and Machine Code.",Programming Languages and Integrated Development Environments,4
+Translator,A program that converts source code written in a programming language into machine code that a computer can execute.,Programming Languages and Integrated Development Environments,3
+Compiler,A type of translator that converts an entire program's source code into machine code in one go before execution.,Programming Languages and Integrated Development Environments,3
+Interpreter,"A type of translator that converts and executes source code line by line, allowing for interactive programming and immediate feedback.",Programming Languages and Integrated Development Environments,3
+Integrated Development Environment,"A software application that provides comprehensive facilities for computer programmers to develop software, typically including a code editor, debugger, compiler and/or interpreter, and other tools.",Programming Languages and Integrated Development Environments,3
+Editor,A component of an IDE or a standalone tool used to write and modify source code.,Programming Languages and Integrated Development Environments,2
+Error Diagnostics,"Tools and features within an IDE that help programmers identify, locate, and resolve errors or bugs in their code, such as syntax highlighting, error messages, and debugging tools.",Programming Languages and Integrated Development Environments,3
+Runtime Environment,"A set of software components and configurations required to execute a program written in a specific programming language, often providing abstraction from the underlying hardware and operating system.",Programming Languages and Integrated Development Environments,4
